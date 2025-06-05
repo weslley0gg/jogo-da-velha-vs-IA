@@ -59,12 +59,4 @@ Após compilar, rode o executável:
 
 ---
 
-## 💡 Possíveis Melhorias
-
-- Implementar uma IA inteligente (algoritmo Minimax).
-- Adicionar placar de vitórias.
-- Salvar resultados em arquivo.
-
----
-
 Desenvolvido como exercício de lógica de programação e modularização em C.
