@@ -34,7 +34,7 @@ jogo_da_velha_vs_ia/
 Para compilar o jogo (usando gcc), execute o seguinte comando no terminal:
 
 ```bash
-gcc main.c jogo.c util.c -o jogo_da_velha
+gcc main.c jogo.c util.c -o jogo-da-velha-vs-IA
 ```
 
 ---
@@ -44,7 +44,7 @@ gcc main.c jogo.c util.c -o jogo_da_velha
 Após compilar, rode o executável:
 
 ```bash
-./jogo_da_velha
+./jogo-da-velha-vs-IA
 ```
 
 ---
